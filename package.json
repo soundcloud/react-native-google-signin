@@ -1,6 +1,6 @@
 {
   "name": "react-native-google-signin",
-  "version": "0.9.1-sc",
+  "version": "0.9.2-sc",
   "description": "Google Signin for your react native applications",
   "main": "index",
   "scripts": {
@@ -17,6 +17,9 @@
     "ios",
     "android"
   ],
+  "dependencies": {
+    "prop-types": "15.5.10"
+  },
   "author": {
     "name": "devfd",
     "email": "apptailor.co@gmail.com",
